@@ -1,0 +1,23 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+coverage/
+artifacts/
+cache/
+typechain-types/
+.DS_Store
+*.log
+# Arquivos temporários de diagnóstico
+backend/check-pending-transfer.mjs
+backend/diagnose-transfer.mjs
+backend/inspect-transfer.mjs
+backend/inspect-transactions-schema.mjs
+backend/inspect-transaction-constraints.mjs
+backend/test-signature.mjs
+
+# Arquivos de backup
+backend/src/routes/account.backup.js
+backend/src/services/transferService.backup.js
+backend/src/services/transferService.debug-backup.js
