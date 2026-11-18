@@ -84,10 +84,10 @@ Esta etapa usa dados fictícios e não possui autenticação. Não use dados pes
 
 ## Equipe
 Preencher os nomes e papéis dos quatro integrantes antes da entrega:
-- Analista de Ecossistema: `[nome]`
-- Guardian de Dados: `[nome]`
-- Arquiteto Blockchain: `[nome]`
-- Integrador: `[nome]`
+- Analista de Ecossistema: `Igor Zwang`
+- Guardian de Dados: `Hellyson Frazão`
+- Arquiteto Blockchain: `Luiz Felipe`
+- Integrador: `Ryan Vieira`
 
 ## Licença
 Projeto acadêmico para fins educacionais.
