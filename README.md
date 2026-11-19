@@ -27,10 +27,10 @@ Os nomes e as funções definitivas deverão ser preenchidos pela equipe:
 
 | Integrante | Responsabilidade |
 |---|---|
-| Participante 1 | "Função a definir" |
-| Participante 2 | "Função a definir" |
-| Participante 3 | "Função a definir" |
-| Participante 4 | "Função a definir" |
+| Hellyson Miranda | Analista de Ecossistema |
+| Igor Zwang | Guardião de Dados |
+| Luiz Felipe | Arquiteto Blockchain |
+| Ryan Torres | Integrador |
 
 ## 3. Planejamento e execução
 
@@ -197,13 +197,9 @@ A implantação dos contratos deve utilizar a configuração e os scripts existe
 
 ## 9. Limitações e escopo atual
 
-- O SmartPay é um protótipo acadêmico e demonstrativo.
 - Não movimenta dinheiro real e não realiza Pix.
-- Não possui integração com bancos ou instituições financeiras.
-- Não possui integração oficial com Open Finance ou DREX.
 - O token SPAY é utilizado apenas para demonstração em ambiente local.
 - O backend permanece centralizado; portanto, o sistema não é totalmente descentralizado.
-- A aplicação não deve receber dados financeiros ou pessoais reais.
 - O projeto não está preparado para uso em produção.
 
 ## 10. Objetivo acadêmico
